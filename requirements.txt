@@ -9,3 +9,4 @@ opencv-python
 mediapipe
 requests
 aiohttp
+PyQt6
