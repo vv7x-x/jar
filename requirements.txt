@@ -1,0 +1,11 @@
+google-genai>=0.1.0
+faiss-cpu
+python-dotenv
+sentence-transformers
+numpy
+pyttsx3
+sounddevice
+opencv-python
+mediapipe
+requests
+aiohttp
